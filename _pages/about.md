@@ -6,13 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-permalink: /
-title: "Xin chao"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
 
 Toi la Pham An Dung, sinh vien nganh IOT
 tai Hoc vien Cong nghe Buu chinh Vien thong (PTIT).
